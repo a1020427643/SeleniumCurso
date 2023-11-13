@@ -9,7 +9,7 @@ public class Buscador {
 		
 		System.setProperty("webdriver.Chrome.driver", "C:\\Users\\eespinosam\\Documents\\drivers\\chromedriver\\chromedriver.exe");
 		WebDriver driver_chrome = new ChromeDriver();
-		driver_chrome.get("https://admin-test.cuida.pe");
+		driver_chrome.get("https://www.google.com");
 		
 		
 		
