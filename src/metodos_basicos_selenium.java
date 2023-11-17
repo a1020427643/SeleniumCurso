@@ -12,7 +12,7 @@ public class metodos_basicos_selenium {
 		WebDriver driver_chrome = new ChromeDriver();
 		
 		
-		//metodo 1:  get  trae la pagina requrrida 
+		//metodo 1:  get  trae la pagina requerida 
 		driver_chrome.get("https://www.google.com");
 		
 		
